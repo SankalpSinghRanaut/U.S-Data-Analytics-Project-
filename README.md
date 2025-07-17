@@ -1,6 +1,6 @@
 # U.S-Data-Analytics-Project-
 
-📊 Project: USA Sales Analytics & Strategic Recommendations :
+📊 Project: USA Store Sales Analytics  :
 In this project I analyzed national sales data for a U.S.-based product company to uncover profit gaps, pricing inefficiencies, regional performance disparities, and customer trends.
 
 
